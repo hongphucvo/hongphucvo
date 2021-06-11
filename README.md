@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @hongphucvo
-- 👀 I'm currently a Computer Science student at HCMUT
-- 🌱 I want to be a data scientist working in bussiness field
-- 💞️ I’m looking to collaborate on data and data 
-- 📫 
+- 👀 A Computer Science student at HCMUT
+- 🌱 A future data scientist working in bussiness field
+- 💞️ My course works and projects are below!!! 🙉🙉🙉
+
+🥨 Let's find some bugs 🍟
